@@ -1,0 +1,11 @@
+<resources>
+    <!--<string name="app_name">Refrigerator</string>-->
+    <string name="app_name">우리냉장고</string>
+    <string name="action_settings">셋팅즈</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="title_activity_tab3">Tab3</string>
+    <string name="title_activity_cold_tab">ColdTab</string>
+    <string name="title_activity_freeze_tab">FreezeTab</string>
+    <string name="title_activity_settings_tab">SettingsTab</string>
+</resources>
